@@ -1,8 +1,15 @@
-h1{color:rgba(69, 153, 233, 0.644);
+h1{color:rgba(255, 254, 254, 0.849);
     margin-top: 0;
-background-color: rgba(0, 0, 0, 0.637);}
+background-color: rgb(59, 59, 59);}
+
 li{list-style:none; padding:20px 30px 20px 30px;}
-ul{
+ul{list-style: none;
     display:flex;
+    margin:0;
     }
-    .header{height:70px;  background-color:rgba(0, 0, 0, 0.637)}
+    .header{height:70px;  background-color:rgb(59, 59, 59)}
+    .town{display:flex;  color:rgba(255, 254, 254, 0.849); background-color:rgb(59, 59, 59); align-items: center;}
+    .kanoko{font-size:xx-large; margin-right: 10px;}
+    img{width: 1200px; display:block; margin:auto;
+         }
+body{margin:0; background-color: rgb(59, 59, 59);}
