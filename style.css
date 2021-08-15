@@ -1,0 +1,8 @@
+h1{color:rgba(69, 153, 233, 0.644);
+    margin-top: 0;
+background-color: rgba(0, 0, 0, 0.637);}
+li{list-style:none; padding:20px 30px 20px 30px;}
+ul{
+    display:flex;
+    }
+    .header{height:70px;  background-color:rgba(0, 0, 0, 0.637)}
