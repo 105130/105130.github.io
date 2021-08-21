@@ -5,12 +5,14 @@ background-color: rgb(59, 59, 59);}
 li{list-style:none; padding:20px 30px 20px 30px;}
 ul{list-style: none;
     display:flex;
-    margin:0;
-    }
-    .header{height:70px;  background-color:rgb(59, 59, 59)}
-    .town{display:flex;  color:rgba(255, 254, 254, 0.849); background-color:rgb(59, 59, 59); align-items: center;}
-    .kanoko{font-size:xx-large; margin-right: 10px;}
-    img{width: 1200px; display:block; margin:auto;
-         }
+    margin:0;}
+.header{height:70px;  background-color:rgb(59, 59, 59)}
+.heading{display:flex;  color:rgba(255, 254, 254, 0.849); background-color:rgb(59, 59, 59); align-items: center;}
+.heading h1{margin:18px;}
+.issh{font-size:60px; margin-right: 10px;}
+img{width: 1200px; display:block; margin:auto; padding-top: 100px; }
 body{margin:0; background-color: rgb(59, 59, 59);}
-.sentence{font-size: 30px; color:rgba(255, 254, 254, 0.849); margin:50px 500px;}
+
+.situation h2{font-size: 50px; color: rgba(255, 254, 254, 0.849); margin-top: 100px; margin-left:10px;}
+.situation p{color:rgba(255, 254, 254, 0.849); margin-left:10px; font-size: 18px;}
+.situation h3{color:rgba(255, 254, 254, 0.849); margin-left: 10px; font-size: 30px;}
